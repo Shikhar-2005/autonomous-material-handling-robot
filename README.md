@@ -252,4 +252,4 @@ See [CREDITS.md](CREDITS.md) for full details.
  
 ## Author
  
-Shikhar Srivastava — Major Engineering Project, 2025–26
+Shikhar Srivastava 
